@@ -47,7 +47,7 @@ main {
 
 section {
     height: 100%;
-    width: 100%;
+    width: 300%;
     background: linear-gradient(135deg, red 10%, yellow);
     text-align: center;
     display: flex;
